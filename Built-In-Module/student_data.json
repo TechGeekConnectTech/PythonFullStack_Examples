@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Pradeep",
+        "Age": 24,
+        "Address": "Pune",
+        "Marks": {
+            "Math": 90,
+            "English": 100
+        }
+    },
+    {
+        "name": "Sagar",
+        "Age": 20,
+        "Address": "Mumbai"
+    }
+]
