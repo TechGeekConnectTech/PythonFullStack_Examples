@@ -18,6 +18,10 @@ class Mango(Fruit):
 
 
 f=Mango("Mango","Yello","Summer","Hapus")
+print(f.name)
+print(f._color)
+print(f.get_season())
+print(f.type)
 print(f.show_detail())
 
 
