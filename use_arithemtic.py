@@ -1,4 +1,4 @@
-from BuildIn_Module.arrithmetic import Arrith as at
+from user_defined_module.arrithmetic import Arrith as at
 number1=10
 number2=20
 print("Addition of Two Numbers",at.add(number1,number2))
